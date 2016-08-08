@@ -1,3 +1,6 @@
+Meant for raspberry PI. See https://github.com/hzeller/
+rpi-rgb-led-matrix
+
 Source code files in main folder (this one) made by Rocky Tatiefo.
 The rest come from https://github.com/hzeller/rpi-rgb-led-matrix
 
